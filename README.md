@@ -8,4 +8,5 @@
       <img height = "30" src = "https://img.shields.io/badge/NVIM-%23383838.svg?&style=for-the-badge&logo=SublimeText&logoColor=%23ffffff" />
       <br>
       <img height = "20" src = "https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge" />
+      <img alt="Static Badge" src="https://img.shields.io/badge/C-%233776AB">
 </p>
