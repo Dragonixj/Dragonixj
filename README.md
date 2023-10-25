@@ -1,16 +1,11 @@
-### Hi there 👋
+<h1 align= "center"> PARADOX</h1>
 
-<!--
-**Dragonixj/Dragonixj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align = "center">
+    <img height = "180" src="assets/animation.gif">
+</p>
+<p align = "center">
+     <img height = "30" src = "https://img.shields.io/badge/Linux-%23383838.svg?&style=for-the-badge&logo=ArchLinux&logoColor=%23ffffff" />
+      <img height = "30" src = "https://img.shields.io/badge/NVIM-%23383838.svg?&style=for-the-badge&logo=SublimeText&logoColor=%23ffffff" />
+      <br>
+      <img height = "20" src = "https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge" />
+</p>
