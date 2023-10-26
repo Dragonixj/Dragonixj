@@ -3,10 +3,14 @@
 <p align = "center">
     <img height = "180" src="assets/retro.gif">
 </p>
+<h3>
 <p align = "center">
-     <img height = "30" src = "https://img.shields.io/badge/Linux-%23383838.svg?&style=for-the-badge&logo=ArchLinux&logoColor=%23ffffff" />
-      <img height = "30" src = "https://img.shields.io/badge/NVIM-%23383838.svg?&style=for-the-badge&logo=SublimeText&logoColor=%23ffffff" />
-      <br>
-      <img height = "20" src = "https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge" />
-      <img alt="Static Badge" src="https://img.shields.io/badge/C-%233776AB">
-</p>
+    Programming Languages<br>
+    <a href="https://www.gnu.org/software/bash/"><img src="https://skillicons.dev/icons?i=bash" /></a>
+    <a href="https://www.iso.org/standard/74528.html"><img src="https://skillicons.dev/icons?i=c" /></a>
+    <a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" /></a>
+    <br>
+    Dev tools <br>
+    <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" /></a>
+    <a href="https://neovim.io"><img src="https://skillicons.dev/icons?i=neovim" /></a>
+</h3>
