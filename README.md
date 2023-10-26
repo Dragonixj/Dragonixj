@@ -1,7 +1,7 @@
 <h1 align= "center"> PARADOX</h1>
 
 <p align = "center">
-    <img height = "180" src="assets/animation.gif">
+    <img height = "180" src="assets/retro.gif">
 </p>
 <p align = "center">
      <img height = "30" src = "https://img.shields.io/badge/Linux-%23383838.svg?&style=for-the-badge&logo=ArchLinux&logoColor=%23ffffff" />
