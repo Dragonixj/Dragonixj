@@ -1,6 +1,6 @@
-<p align = "centre">
+<span align= "centre">
     Welcome Here
-</p>
+</span>
 <!-- <h1 align= "center"> PARADOX</h1> -->
 
 <!-- <p align = "center"> -->
